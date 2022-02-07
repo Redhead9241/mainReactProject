@@ -8,7 +8,7 @@ import './app.css';
 function App() {
 
     const data = [
-        {name: 'Tom Hank',salary: 800, increase: false, id: 1},
+        {name: 'Tom Hank',salary: 800, increase: false, id: 5},
         {name: 'Will Ferrell',salary: 3200, increase: true, id: 2},
         {name: 'John Travolta',salary: 2500, increase: true, id: 3}
     ];
